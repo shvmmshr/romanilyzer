@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Kirito",
+    "anime": "Sword Art Online",
+    "traits": ["brave", "loyal", "protective"],
+    "keywords": ["sword", "adventure", "love"]
+  },
+  {
+    "name": "Asuna",
+    "anime": "Sword Art Online",
+    "traits": ["kind", "strong", "determined"],
+    "keywords": ["sword", "leader", "romance"]
+  },
+  {
+    "name": "Zero Two",
+    "anime": "Darling in the Franxx",
+    "traits": ["mysterious", "bold", "affectionate"],
+    "keywords": ["mecha", "love", "partnership"]
+  },
+  {
+    "name": "Taiga Aisaka",
+    "anime": "Toradora!",
+    "traits": ["feisty", "loyal", "emotional"],
+    "keywords": ["school", "romance", "tsundere"]
+  }
+]
