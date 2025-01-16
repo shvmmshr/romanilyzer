@@ -37,5 +37,5 @@ Follow these steps to set up Romanilyzer locally on your machine.
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/romanilyzer.git
+   git clone https://github.com/shvmmshr/romanilyzer.git
    cd romanilyzer
