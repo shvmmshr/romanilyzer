@@ -36,24 +36,31 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-pink-100 to-purple-100 flex flex-col items-center justify-center p-8 relative">
-    {/* Left Image */}
-    <a href="https://www.pixiv.net/en/artworks/73297498" target="_blank" rel="noopener noreferrer">
-      <img
-        src={image1}
-        alt="Left Decoration"
-        className="absolute left-0 bottom-0 h-100"
-      />
-    </a>
+      {/* Left Image */}
+      <a
+        href="https://www.pixiv.net/en/artworks/73297498"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <img
+          src={image1}
+          alt="Left Decoration"
+          className="absolute left-0 bottom-0 h-100"
+        />
+      </a>
 
-    {/* Right Image */}
-    <a href="https://www.suruga-ya.com/en/product/988837294" target="_blank" rel="noopener noreferrer">
-      <img
-        src={image2}
-        alt="Right Decoration"
-        className="absolute right-0 bottom-0 h-100"
-      />
-    </a>
-
+      {/* Right Image */}
+      <a
+        href="https://www.suruga-ya.com/en/product/988837294"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <img
+          src={image2}
+          alt="Right Decoration"
+          className="absolute right-0 bottom-0 h-100"
+        />
+      </a>
 
       {/* Main Content */}
       <div className="text-center z-10">
@@ -90,7 +97,8 @@ function App() {
       )}
       <div className="mt-4 text-sm text-gray-600 text-center">
         <p>
-          🚧 Note: This app is currently in development and may not work as<br/>
+          🚧 Note: This app is currently in development and may not work as
+          <br />
           expected. We're working hard to bring you the best experience! 🚧
         </p>
         {/* <p className="mt-2">
@@ -100,8 +108,11 @@ function App() {
       </div>
       {/* Footer */}
       <div className="absolute bottom-4 text-center text-pink-700">
-      <p>The left art is by "松うに" on Pixiv, and the right art is provided by suruga-ya.com. Click on each image for more details.</p>
-      <p>Made with ❤️ by Shivam, Matt</p>
+        <p>
+          The left art is by "松うに" on Pixiv, and the right art is provided by
+          suruga-ya.com. Click on each image for more details.
+        </p>
+        <p>Made with ❤️ by Shivam, Matt and team</p>
       </div>
     </div>
   );

@@ -22,5 +22,12 @@
     "anime": "Toradora!",
     "traits": ["feisty", "loyal", "emotional"],
     "keywords": ["school", "romance", "tsundere"]
+  },
+
+  {
+    "name": "Sakurajima Mai",
+    "anime": "Seishun Buta Yarou",
+    "traits": ["intelligent", "professional", "caring"],
+    "keywords": ["school", "romance", "supernatural"]
   }
 ]
