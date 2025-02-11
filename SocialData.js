@@ -8,7 +8,7 @@ async function getSocialData() {
       {
         headers: {
           Authorization:
-            "1986|9vA4xJl84iCbpJezHffZFSuiIz39qJSgXTWIpkx42ce1080f",
+            "BEARER_API_KEY",
           Accept: "application/json",
         },
       }
