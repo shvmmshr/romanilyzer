@@ -23,11 +23,356 @@
     "traits": ["feisty", "loyal", "emotional"],
     "keywords": ["school", "romance", "tsundere"]
   },
-
   {
     "name": "Sakurajima Mai",
     "anime": "Seishun Buta Yarou",
     "traits": ["intelligent", "professional", "caring"],
-    "keywords": ["school", "romance", "supernatural"]
+    "keywords": ["school", "romance", "supernatural"],
+    "mal_id": ["118739"]
+  },
+  {
+    "name": "Hori Kyouko",
+    "anime": "Horimiya",
+    "traits": ["hardworking", "caring", "responsible"],
+    "keywords": ["school", "romance", "slice-of-life"]
+  },
+  {
+    "name": "Miyamura Izumi",
+    "anime": "Horimiya",
+    "traits": ["kind", "misunderstood", "gentle"],
+    "keywords": ["school", "romance", "hidden-side"]
+  },
+  {
+    "name": "Yukino Yukinoshita",
+    "anime": "Oregairu",
+    "traits": ["intelligent", "cold", "perfectionist"],
+    "keywords": ["school", "romance", "psychology"]
+  },
+  {
+    "name": "Hachiman Hikigaya",
+    "anime": "Oregairu",
+    "traits": ["cynical", "analytical", "self-sacrificing"],
+    "keywords": ["school", "psychology", "growth"]
+  },
+  {
+    "name": "Kaguya Shinomiya",
+    "anime": "Kaguya-sama: Love is War",
+    "traits": ["proud", "competitive", "inexperienced"],
+    "keywords": ["school", "comedy", "mind-games"],
+    "mal_id": ["136359"]
+  },
+  {
+    "name": "Miyuki Shirogane",
+    "anime": "Kaguya-sama: Love is War",
+    "traits": ["hardworking", "proud", "determined"],
+    "keywords": ["school", "comedy", "strategy"],
+    "mal_id": ["136685"]
+  },
+  {
+    "name": "Marin Kitagawa",
+    "anime": "My Dress-Up Darling",
+    "traits": ["outgoing", "passionate", "accepting"],
+    "keywords": ["cosplay", "romance", "friendship"],
+    "mal_id": ["166439"]
+  },
+  {
+    "name": "Gojou Wakana",
+    "anime": "My Dress-Up Darling",
+    "traits": ["skilled", "reserved", "dedicated"],
+    "keywords": ["crafts", "romance", "growth"]
+  },
+  {
+    "name": "Rem",
+    "anime": "Re:Zero",
+    "traits": ["loyal", "devoted", "strong"],
+    "keywords": ["fantasy", "romance", "dedication"]
+  },
+  {
+    "name": "Emilia",
+    "anime": "Re:Zero",
+    "traits": ["kind", "determined", "naive"],
+    "keywords": ["fantasy", "magic", "romance"]
+  },
+  {
+    "name": "Ryuuji Takasu",
+    "anime": "Toradora!",
+    "traits": ["kind", "misunderstood", "caring"],
+    "keywords": ["school", "romance", "appearance"]
+  },
+  {
+    "name": "Sakuta Azusagawa",
+    "anime": "Seishun Buta Yarou",
+    "traits": ["straightforward", "caring", "loyal"],
+    "keywords": ["supernatural", "romance", "mystery"]
+  },
+  {
+    "name": "Chitoge Kirisaki",
+    "anime": "Nisekoi",
+    "traits": ["tsundere", "energetic", "competitive"],
+    "keywords": ["school", "romance", "fake-relationship"]
+  },
+  {
+    "name": "Raku Ichijou",
+    "anime": "Nisekoi",
+    "traits": ["kind", "dense", "responsible"],
+    "keywords": ["school", "harem", "promise"]
+  },
+  {
+    "name": "Nasa Yuzaki",
+    "anime": "Tonikaku Kawaii",
+    "traits": ["determined", "loving", "intelligent"],
+    "keywords": ["marriage", "romance", "dedication"]
+  },
+  {
+    "name": "Tsukasa Yuzaki",
+    "anime": "Tonikaku Kawaii",
+    "traits": ["mysterious", "loving", "supportive"],
+    "keywords": ["marriage", "romance", "supernatural"]
+  },
+  {
+    "name": "Miyamura Shuu",
+    "anime": "Clannad",
+    "traits": ["caring", "responsible", "determined"],
+    "keywords": ["school", "family", "growth"]
+  },
+  {
+    "name": "Nagisa Furukawa",
+    "anime": "Clannad",
+    "traits": ["gentle", "determined", "fragile"],
+    "keywords": ["school", "family", "dreams"]
+  },
+  {
+    "name": "Kotoko Aihara",
+    "anime": "Itazura na Kiss",
+    "traits": ["persistent", "cheerful", "determined"],
+    "keywords": ["school", "romance", "pursuit"]
+  },
+  {
+    "name": "Naoki Irie",
+    "anime": "Itazura na Kiss",
+    "traits": ["genius", "cold", "prideful"],
+    "keywords": ["school", "romance", "growth"]
+  },
+  {
+    "name": "Sawako Kuronuma",
+    "anime": "Kimi ni Todoke",
+    "traits": ["misunderstood", "kind", "shy"],
+    "keywords": ["school", "friendship", "growth"]
+  },
+  {
+    "name": "Shouta Kazehaya",
+    "anime": "Kimi ni Todoke",
+    "traits": ["popular", "kind", "understanding"],
+    "keywords": ["school", "friendship", "romance"]
+  },
+  {
+    "name": "Yukari Nejima",
+    "anime": "Koi to Uso",
+    "traits": ["honest", "conflicted", "determined"],
+    "keywords": ["romance", "government", "choice"]
+  },
+  {
+    "name": "Misaki Takasaki",
+    "anime": "Koi to Uso",
+    "traits": ["passionate", "determined", "conflicted"],
+    "keywords": ["romance", "forbidden-love", "choice"]
+  },
+  {
+    "name": "Hiro",
+    "anime": "Darling in the Franxx",
+    "traits": ["loyal", "determined", "caring"],
+    "keywords": ["mecha", "partnership", "sacrifice"]
+  },
+  {
+    "name": "Mitsuha Miyamizu",
+    "anime": "Kimi no Na wa",
+    "traits": ["determined", "adventurous", "traditional"],
+    "keywords": ["supernatural", "body-swap", "destiny"]
+  },
+  {
+    "name": "Taki Tachibana",
+    "anime": "Kimi no Na wa",
+    "traits": ["persistent", "caring", "determined"],
+    "keywords": ["supernatural", "body-swap", "destiny"]
+  },
+  {
+    "name": "Mirai Kuriyama",
+    "anime": "Kyoukai no Kanata",
+    "traits": ["shy", "determined", "unique"],
+    "keywords": ["supernatural", "action", "romance"]
+  },
+  {
+    "name": "Akihito Kanbara",
+    "anime": "Kyoukai no Kanata",
+    "traits": ["protective", "caring", "immortal"],
+    "keywords": ["supernatural", "action", "romance"]
+  },
+  {
+    "name": "Yuu Otosaka",
+    "anime": "Charlotte",
+    "traits": ["selfish", "protective", "determined"],
+    "keywords": ["supernatural", "sacrifice", "romance"]
+  },
+  {
+    "name": "Nao Tomori",
+    "anime": "Charlotte",
+    "traits": ["strong-willed", "caring", "strategic"],
+    "keywords": ["supernatural", "leadership", "romance"]
+  },
+  {
+    "name": "Yukino Miyazawa",
+    "anime": "Kare Kano",
+    "traits": ["perfectionist", "competitive", "insecure"],
+    "keywords": ["school", "psychology", "romance"]
+  },
+  {
+    "name": "Soichiro Arima",
+    "anime": "Kare Kano",
+    "traits": ["perfect", "troubled", "loving"],
+    "keywords": ["school", "psychology", "romance"]
+  },
+  {
+    "name": "Tamako Kitashirakawa",
+    "anime": "Tamako Market",
+    "traits": ["cheerful", "caring", "dedicated"],
+    "keywords": ["slice-of-life", "mochi", "love"]
+  },
+  {
+    "name": "Mochizou Ooji",
+    "anime": "Tamako Market",
+    "traits": ["patient", "caring", "supportive"],
+    "keywords": ["childhood-friend", "romance", "dedication"]
+  },
+  {
+    "name": "Kaori Miyazono",
+    "anime": "Your Lie in April",
+    "traits": ["vibrant", "free-spirited", "determined"],
+    "keywords": ["music", "inspiration", "life"]
+  },
+  {
+    "name": "Kousei Arima",
+    "anime": "Your Lie in April",
+    "traits": ["traumatized", "talented", "growing"],
+    "keywords": ["music", "healing", "love"]
+  },
+  {
+    "name": "Misaki Ayuzawa",
+    "anime": "Kaichou wa Maid-sama!",
+    "traits": ["hardworking", "strong", "prideful"],
+    "keywords": ["school", "maid", "romance"]
+  },
+  {
+    "name": "Takumi Usui",
+    "anime": "Kaichou wa Maid-sama!",
+    "traits": ["talented", "mysterious", "protective"],
+    "keywords": ["school", "romance", "secret"]
+  },
+  {
+    "name": "Shizuku Mizutani",
+    "anime": "Tonari no Kaibutsu-kun",
+    "traits": ["studious", "logical", "developing"],
+    "keywords": ["school", "study", "growth"]
+  },
+  {
+    "name": "Haru Yoshida",
+    "anime": "Tonari no Kaibutsu-kun",
+    "traits": ["wild", "intelligent", "innocent"],
+    "keywords": ["school", "delinquent", "romance"]
+  },
+  {
+    "name": "Mei Tachibana",
+    "anime": "Say I Love You",
+    "traits": ["antisocial", "honest", "growing"],
+    "keywords": ["school", "trust", "romance"]
+  },
+  {
+    "name": "Yamato Kurosawa",
+    "anime": "Say I Love You",
+    "traits": ["popular", "caring", "patient"],
+    "keywords": ["school", "romance", "growth"]
+  },
+  {
+    "name": "Nanami Momozono",
+    "anime": "Kamisama Kiss",
+    "traits": ["determined", "kind", "hardworking"],
+    "keywords": ["supernatural", "shrine", "romance"]
+  },
+  {
+    "name": "Tomoe",
+    "anime": "Kamisama Kiss",
+    "traits": ["proud", "powerful", "protective"],
+    "keywords": ["yokai", "familiar", "romance"]
+  },
+  {
+    "name": "Chiyo Sakura",
+    "anime": "Monthly Girls' Nozaki-kun",
+    "traits": ["cheerful", "artistic", "determined"],
+    "keywords": ["manga", "romance", "comedy"]
+  },
+  {
+    "name": "Umetarou Nozaki",
+    "anime": "Monthly Girls' Nozaki-kun",
+    "traits": ["oblivious", "hardworking", "observant"],
+    "keywords": ["manga", "romance", "comedy"]
+  },
+  {
+    "name": "Sadako Kuronuma",
+    "anime": "Kimi ni Todoke",
+    "traits": ["misunderstood", "kind", "shy"],
+    "keywords": ["school", "friendship", "growth"]
+  },
+  {
+    "name": "Kazehaya Shouta",
+    "anime": "Kimi ni Todoke",
+    "traits": ["popular", "kind", "supportive"],
+    "keywords": ["school", "friendship", "romance"]
+  },
+  {
+    "name": "Suzume Yosano",
+    "anime": "Suzume no Tojimari",
+    "traits": ["determined", "brave", "caring"],
+    "keywords": ["supernatural", "journey", "romance"]
+  },
+  {
+    "name": "Souta Munakata",
+    "anime": "Suzume no Tojimari",
+    "traits": ["mysterious", "protective", "dedicated"],
+    "keywords": ["supernatural", "journey", "duty"]
+  },
+  {
+    "name": "Yuki Cross",
+    "anime": "Vampire Knight",
+    "traits": ["caring", "determined", "protective"],
+    "keywords": ["vampire", "guardian", "romance"]
+  },
+  {
+    "name": "Kaname Kuran",
+    "anime": "Vampire Knight",
+    "traits": ["mysterious", "powerful", "protective"],
+    "keywords": ["vampire", "pureblood", "romance"]
+  },
+  {
+    "name": "Shirayuki",
+    "anime": "Snow White with the Red Hair",
+    "traits": ["independent", "skilled", "determined"],
+    "keywords": ["herbs", "romance", "adventure"]
+  },
+  {
+    "name": "Zen Wistaria",
+    "anime": "Snow White with the Red Hair",
+    "traits": ["princely", "caring", "responsible"],
+    "keywords": ["prince", "romance", "duty"]
+  },
+  {
+    "name": "Chizuru Hishiro",
+    "anime": "ReLIFE",
+    "traits": ["socially-awkward", "intelligent", "growing"],
+    "keywords": ["experiment", "romance", "growth"]
+  },
+  {
+    "name": "Arata Kaizaki",
+    "anime": "ReLIFE",
+    "traits": ["mature", "caring", "supportive"],
+    "keywords": ["experiment", "romance", "growth"]
   }
 ]
