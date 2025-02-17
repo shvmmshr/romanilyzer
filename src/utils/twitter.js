@@ -1,6 +1,10 @@
 import axios from "axios";
 
-const BEARER_TOKEN = ""; // Replace with your valid Bearer Token
+const BEARER_TOKEN = import.meta.env.VITE_TWITTER_BEARER_TOKEN; // Use environment variable
+
+if (!BEARER_TOKEN) {
+  console.error("Error: Twitter API Bearer Token is missing!");
+}
 
 const twitterClient = axios.create({
   baseURL: "https://api.twitter.com/2",
@@ -12,17 +16,15 @@ const twitterClient = axios.create({
 // Fetch user details by username
 export const fetchUserByUsername = async (username) => {
   try {
-    const trimmedUsername = username.trim(); // Ensure username is trimmed
-    console.log(`Fetching user with username: ${trimmedUsername}`); // Log the username being fetched
-    const response = await twitterClient.get(
-      `/users/by/username/${trimmedUsername}`,
-      {
-        params: {
-          "user.fields": "description,profile_image_url",
-        },
-      }
+    const trimmedUsername = username.trim();
+    if (!trimmedUsername) {
+      console.error("Username is empty or invalid.");
+      return null;
+    }
+
+    const response = await axios.get(
+      `http://localhost:5000/api/twitter/user/${trimmedUsername}`
     );
-    console.log("User fetch response:", response.data); // Log the full response
     return response.data.data;
   } catch (error) {
     console.error(
@@ -32,7 +34,6 @@ export const fetchUserByUsername = async (username) => {
     return null;
   }
 };
-
 // Fetch recent tweets by user ID
 export const fetchTweetsByUserId = async (userId) => {
   try {
