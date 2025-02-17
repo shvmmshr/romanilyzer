@@ -3,376 +3,496 @@
     "name": "Kirito",
     "anime": "Sword Art Online",
     "traits": ["brave", "loyal", "protective"],
-    "keywords": ["sword", "adventure", "love"]
+    "keywords": ["sword", "adventure", "love"],
+    "mal_id": "40357",
+    "image": "https://cdn.anisearch.com/images/character/cover/45/45003_400.webp"
   },
   {
     "name": "Asuna",
     "anime": "Sword Art Online",
     "traits": ["kind", "strong", "determined"],
-    "keywords": ["sword", "leader", "romance"]
+    "keywords": ["sword", "leader", "romance"],
+    "mal_id": "40358",
+    "image": "https://cdn.anisearch.com/images/character/cover/45/45004_400.webp"
   },
   {
     "name": "Zero Two",
     "anime": "Darling in the Franxx",
     "traits": ["mysterious", "bold", "affectionate"],
-    "keywords": ["mecha", "love", "partnership"]
+    "keywords": ["mecha", "love", "partnership"],
+    "mal_id": "142768",
+    "image": "https://cdn.anisearch.com/images/character/cover/85/85788_400.webp"
   },
   {
     "name": "Taiga Aisaka",
     "anime": "Toradora!",
     "traits": ["feisty", "loyal", "emotional"],
-    "keywords": ["school", "romance", "tsundere"]
+    "keywords": ["school", "romance", "tsundere"],
+    "mal_id": "18529",
+    "image": "https://cdn.anisearch.com/images/character/cover/27/27086_400.webp"
   },
   {
     "name": "Sakurajima Mai",
     "anime": "Seishun Buta Yarou",
     "traits": ["intelligent", "professional", "caring"],
     "keywords": ["school", "romance", "supernatural"],
-    "mal_id": ["118739"]
+    "mal_id": "118739",
+    "image": "https://cdn.anisearch.com/images/character/cover/78/78002_400.webp"
   },
   {
     "name": "Hori Kyouko",
     "anime": "Horimiya",
     "traits": ["hardworking", "caring", "responsible"],
-    "keywords": ["school", "romance", "slice-of-life"]
+    "keywords": ["school", "romance", "slice-of-life"],
+    "mal_id": "128125",
+    "image": "https://cdn.anisearch.com/images/character/cover/89/89001_400.webp"
   },
   {
     "name": "Miyamura Izumi",
     "anime": "Horimiya",
     "traits": ["kind", "misunderstood", "gentle"],
-    "keywords": ["school", "romance", "hidden-side"]
+    "keywords": ["school", "romance", "hidden-side"],
+    "mal_id": "128126",
+    "image": "https://cdn.anisearch.com/images/character/cover/89/89002_400.webp"
   },
   {
     "name": "Yukino Yukinoshita",
     "anime": "Oregairu",
     "traits": ["intelligent", "cold", "perfectionist"],
-    "keywords": ["school", "romance", "psychology"]
+    "keywords": ["school", "romance", "psychology"],
+    "mal_id": "67067",
+    "image": "https://cdn.anisearch.com/images/character/cover/45/45005_400.webp"
   },
   {
     "name": "Hachiman Hikigaya",
     "anime": "Oregairu",
     "traits": ["cynical", "analytical", "self-sacrificing"],
-    "keywords": ["school", "psychology", "growth"]
+    "keywords": ["school", "psychology", "growth"],
+    "mal_id": "67066",
+    "image": "https://cdn.anisearch.com/images/character/cover/45/45006_400.webp"
   },
   {
     "name": "Kaguya Shinomiya",
     "anime": "Kaguya-sama: Love is War",
     "traits": ["proud", "competitive", "inexperienced"],
     "keywords": ["school", "comedy", "mind-games"],
-    "mal_id": ["136359"]
+    "mal_id": "136359",
+    "image": "https://cdn.anisearch.com/images/character/cover/82/82233_400.webp"
   },
   {
     "name": "Miyuki Shirogane",
     "anime": "Kaguya-sama: Love is War",
     "traits": ["hardworking", "proud", "determined"],
     "keywords": ["school", "comedy", "strategy"],
-    "mal_id": ["136685"]
+    "mal_id": "136685",
+    "image": "https://cdn.anisearch.com/images/character/cover/82/82234_400.webp"
   },
   {
     "name": "Marin Kitagawa",
     "anime": "My Dress-Up Darling",
     "traits": ["outgoing", "passionate", "accepting"],
     "keywords": ["cosplay", "romance", "friendship"],
-    "mal_id": ["166439"]
+    "mal_id": "166439",
+    "image": "https://cdn.anisearch.com/images/character/cover/104/104000_400.webp"
   },
   {
     "name": "Gojou Wakana",
     "anime": "My Dress-Up Darling",
     "traits": ["skilled", "reserved", "dedicated"],
-    "keywords": ["crafts", "romance", "growth"]
+    "keywords": ["crafts", "romance", "growth"],
+    "mal_id": "166440",
+    "image": "https://cdn.anisearch.com/images/character/cover/104/104001_400.webp"
   },
   {
     "name": "Rem",
     "anime": "Re:Zero",
     "traits": ["loyal", "devoted", "strong"],
-    "keywords": ["fantasy", "romance", "dedication"]
+    "keywords": ["fantasy", "romance", "dedication"],
+    "mal_id": "118749",
+    "image": "https://cdn.anisearch.com/images/character/cover/67/67003_400.webp"
   },
   {
     "name": "Emilia",
     "anime": "Re:Zero",
     "traits": ["kind", "determined", "naive"],
-    "keywords": ["fantasy", "magic", "romance"]
+    "keywords": ["fantasy", "magic", "romance"],
+    "mal_id": "118748",
+    "image": "https://cdn.anisearch.com/images/character/cover/67/67002_400.webp"
   },
   {
     "name": "Ryuuji Takasu",
     "anime": "Toradora!",
     "traits": ["kind", "misunderstood", "caring"],
-    "keywords": ["school", "romance", "appearance"]
+    "keywords": ["school", "romance", "appearance"],
+    "mal_id": "18530",
+    "image": "https://cdn.anisearch.com/images/character/cover/27/27087_400.webp"
   },
   {
     "name": "Sakuta Azusagawa",
     "anime": "Seishun Buta Yarou",
     "traits": ["straightforward", "caring", "loyal"],
-    "keywords": ["supernatural", "romance", "mystery"]
+    "keywords": ["supernatural", "romance", "mystery"],
+    "mal_id": "118738",
+    "image": "https://cdn.anisearch.com/images/character/cover/78/78001_400.webp"
   },
   {
     "name": "Chitoge Kirisaki",
     "anime": "Nisekoi",
     "traits": ["tsundere", "energetic", "competitive"],
-    "keywords": ["school", "romance", "fake-relationship"]
+    "keywords": ["school", "romance", "fake-relationship"],
+    "mal_id": "67773",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49001_400.webp"
   },
   {
     "name": "Raku Ichijou",
     "anime": "Nisekoi",
     "traits": ["kind", "dense", "responsible"],
-    "keywords": ["school", "harem", "promise"]
+    "keywords": ["school", "harem", "promise"],
+    "mal_id": "67772",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49000_400.webp"
   },
   {
     "name": "Nasa Yuzaki",
     "anime": "Tonikaku Kawaii",
     "traits": ["determined", "loving", "intelligent"],
-    "keywords": ["marriage", "romance", "dedication"]
+    "keywords": ["marriage", "romance", "dedication"],
+    "mal_id": "136360",
+    "image": "https://cdn.anisearch.com/images/character/cover/82/82235_400.webp"
   },
   {
     "name": "Tsukasa Yuzaki",
     "anime": "Tonikaku Kawaii",
     "traits": ["mysterious", "loving", "supportive"],
-    "keywords": ["marriage", "romance", "supernatural"]
+    "keywords": ["marriage", "romance", "supernatural"],
+    "mal_id": "136361",
+    "image": "https://cdn.anisearch.com/images/character/cover/82/82236_400.webp"
   },
   {
     "name": "Miyamura Shuu",
     "anime": "Clannad",
     "traits": ["caring", "responsible", "determined"],
-    "keywords": ["school", "family", "growth"]
+    "keywords": ["school", "family", "growth"],
+    "mal_id": "1859",
+    "image": "https://cdn.anisearch.com/images/character/cover/10/10001_400.webp"
   },
   {
     "name": "Nagisa Furukawa",
     "anime": "Clannad",
     "traits": ["gentle", "determined", "fragile"],
-    "keywords": ["school", "family", "dreams"]
+    "keywords": ["school", "family", "dreams"],
+    "mal_id": "1858",
+    "image": "https://cdn.anisearch.com/images/character/cover/10/10000_400.webp"
   },
   {
     "name": "Kotoko Aihara",
     "anime": "Itazura na Kiss",
     "traits": ["persistent", "cheerful", "determined"],
-    "keywords": ["school", "romance", "pursuit"]
+    "keywords": ["school", "romance", "pursuit"],
+    "mal_id": "1857",
+    "image": "https://cdn.anisearch.com/images/character/cover/10/10002_400.webp"
   },
   {
     "name": "Naoki Irie",
     "anime": "Itazura na Kiss",
     "traits": ["genius", "cold", "prideful"],
-    "keywords": ["school", "romance", "growth"]
+    "keywords": ["school", "romance", "growth"],
+    "mal_id": "1856",
+    "image": "https://cdn.anisearch.com/images/character/cover/10/10003_400.webp"
   },
   {
     "name": "Sawako Kuronuma",
     "anime": "Kimi ni Todoke",
     "traits": ["misunderstood", "kind", "shy"],
-    "keywords": ["school", "friendship", "growth"]
+    "keywords": ["school", "friendship", "growth"],
+    "mal_id": "1855",
+    "image": "https://cdn.anisearch.com/images/character/cover/10/10004_400.webp"
   },
   {
     "name": "Shouta Kazehaya",
     "anime": "Kimi ni Todoke",
     "traits": ["popular", "kind", "understanding"],
-    "keywords": ["school", "friendship", "romance"]
+    "keywords": ["school", "friendship", "romance"],
+    "mal_id": "1854",
+    "image": "https://cdn.anisearch.com/images/character/cover/10/10005_400.webp"
   },
   {
     "name": "Yukari Nejima",
     "anime": "Koi to Uso",
     "traits": ["honest", "conflicted", "determined"],
-    "keywords": ["romance", "government", "choice"]
+    "keywords": ["romance", "government", "choice"],
+    "mal_id": "136362",
+    "image": "https://cdn.anisearch.com/images/character/cover/82/82237_400.webp"
   },
   {
     "name": "Misaki Takasaki",
     "anime": "Koi to Uso",
     "traits": ["passionate", "determined", "conflicted"],
-    "keywords": ["romance", "forbidden-love", "choice"]
+    "keywords": ["romance", "forbidden-love", "choice"],
+    "mal_id": "136363",
+    "image": "https://cdn.anisearch.com/images/character/cover/82/82238_400.webp"
   },
   {
     "name": "Hiro",
     "anime": "Darling in the Franxx",
     "traits": ["loyal", "determined", "caring"],
-    "keywords": ["mecha", "partnership", "sacrifice"]
+    "keywords": ["mecha", "partnership", "sacrifice"],
+    "mal_id": "142769",
+    "image": "https://cdn.anisearch.com/images/character/cover/85/85789_400.webp"
   },
   {
     "name": "Mitsuha Miyamizu",
     "anime": "Kimi no Na wa",
     "traits": ["determined", "adventurous", "traditional"],
-    "keywords": ["supernatural", "body-swap", "destiny"]
+    "keywords": ["supernatural", "body-swap", "destiny"],
+    "mal_id": "136364",
+    "image": "https://cdn.anisearch.com/images/character/cover/82/82239_400.webp"
   },
   {
     "name": "Taki Tachibana",
     "anime": "Kimi no Na wa",
     "traits": ["persistent", "caring", "determined"],
-    "keywords": ["supernatural", "body-swap", "destiny"]
+    "keywords": ["supernatural", "body-swap", "destiny"],
+    "mal_id": "136365",
+    "image": "https://cdn.anisearch.com/images/character/cover/82/82240_400.webp"
   },
   {
     "name": "Mirai Kuriyama",
     "anime": "Kyoukai no Kanata",
     "traits": ["shy", "determined", "unique"],
-    "keywords": ["supernatural", "action", "romance"]
+    "keywords": ["supernatural", "action", "romance"],
+    "mal_id": "67774",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49002_400.webp"
   },
   {
     "name": "Akihito Kanbara",
     "anime": "Kyoukai no Kanata",
     "traits": ["protective", "caring", "immortal"],
-    "keywords": ["supernatural", "action", "romance"]
+    "keywords": ["supernatural", "action", "romance"],
+    "mal_id": "67775",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49003_400.webp"
   },
   {
     "name": "Yuu Otosaka",
     "anime": "Charlotte",
     "traits": ["selfish", "protective", "determined"],
-    "keywords": ["supernatural", "sacrifice", "romance"]
+    "keywords": ["supernatural", "sacrifice", "romance"],
+    "mal_id": "67776",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49004_400.webp"
   },
   {
     "name": "Nao Tomori",
     "anime": "Charlotte",
     "traits": ["strong-willed", "caring", "strategic"],
-    "keywords": ["supernatural", "leadership", "romance"]
+    "keywords": ["supernatural", "leadership", "romance"],
+    "mal_id": "67777",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49005_400.webp"
   },
   {
     "name": "Yukino Miyazawa",
     "anime": "Kare Kano",
     "traits": ["perfectionist", "competitive", "insecure"],
-    "keywords": ["school", "psychology", "romance"]
+    "keywords": ["school", "psychology", "romance"],
+    "mal_id": "1853",
+    "image": "https://cdn.anisearch.com/images/character/cover/10/10006_400.webp"
   },
   {
     "name": "Soichiro Arima",
     "anime": "Kare Kano",
     "traits": ["perfect", "troubled", "loving"],
-    "keywords": ["school", "psychology", "romance"]
+    "keywords": ["school", "psychology", "romance"],
+    "mal_id": "1852",
+    "image": "https://cdn.anisearch.com/images/character/cover/10/10007_400.webp"
   },
   {
     "name": "Tamako Kitashirakawa",
     "anime": "Tamako Market",
     "traits": ["cheerful", "caring", "dedicated"],
-    "keywords": ["slice-of-life", "mochi", "love"]
+    "keywords": ["slice-of-life", "mochi", "love"],
+    "mal_id": "67778",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49006_400.webp"
   },
   {
     "name": "Mochizou Ooji",
     "anime": "Tamako Market",
     "traits": ["patient", "caring", "supportive"],
-    "keywords": ["childhood-friend", "romance", "dedication"]
+    "keywords": ["childhood-friend", "romance", "dedication"],
+    "mal_id": "67779",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49007_400.webp"
   },
   {
     "name": "Kaori Miyazono",
     "anime": "Your Lie in April",
     "traits": ["vibrant", "free-spirited", "determined"],
-    "keywords": ["music", "inspiration", "life"]
+    "keywords": ["music", "inspiration", "life"],
+    "mal_id": "67780",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49008_400.webp"
   },
   {
     "name": "Kousei Arima",
     "anime": "Your Lie in April",
     "traits": ["traumatized", "talented", "growing"],
-    "keywords": ["music", "healing", "love"]
+    "keywords": ["music", "healing", "love"],
+    "mal_id": "67781",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49009_400.webp"
   },
   {
     "name": "Misaki Ayuzawa",
     "anime": "Kaichou wa Maid-sama!",
     "traits": ["hardworking", "strong", "prideful"],
-    "keywords": ["school", "maid", "romance"]
+    "keywords": ["school", "maid", "romance"],
+    "mal_id": "67782",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49010_400.webp"
   },
   {
     "name": "Takumi Usui",
     "anime": "Kaichou wa Maid-sama!",
     "traits": ["talented", "mysterious", "protective"],
-    "keywords": ["school", "romance", "secret"]
+    "keywords": ["school", "romance", "secret"],
+    "mal_id": "67783",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49011_400.webp"
   },
   {
     "name": "Shizuku Mizutani",
     "anime": "Tonari no Kaibutsu-kun",
     "traits": ["studious", "logical", "developing"],
-    "keywords": ["school", "study", "growth"]
+    "keywords": ["school", "study", "growth"],
+    "mal_id": "67784",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49012_400.webp"
   },
   {
     "name": "Haru Yoshida",
     "anime": "Tonari no Kaibutsu-kun",
     "traits": ["wild", "intelligent", "innocent"],
-    "keywords": ["school", "delinquent", "romance"]
+    "keywords": ["school", "delinquent", "romance"],
+    "mal_id": "67785",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49013_400.webp"
   },
   {
     "name": "Mei Tachibana",
     "anime": "Say I Love You",
     "traits": ["antisocial", "honest", "growing"],
-    "keywords": ["school", "trust", "romance"]
+    "keywords": ["school", "trust", "romance"],
+    "mal_id": "67786",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49014_400.webp"
   },
   {
     "name": "Yamato Kurosawa",
     "anime": "Say I Love You",
     "traits": ["popular", "caring", "patient"],
-    "keywords": ["school", "romance", "growth"]
+    "keywords": ["school", "romance", "growth"],
+    "mal_id": "67787",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49015_400.webp"
   },
   {
     "name": "Nanami Momozono",
     "anime": "Kamisama Kiss",
     "traits": ["determined", "kind", "hardworking"],
-    "keywords": ["supernatural", "shrine", "romance"]
+    "keywords": ["supernatural", "shrine", "romance"],
+    "mal_id": "67788",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49016_400.webp"
   },
   {
     "name": "Tomoe",
     "anime": "Kamisama Kiss",
     "traits": ["proud", "powerful", "protective"],
-    "keywords": ["yokai", "familiar", "romance"]
+    "keywords": ["yokai", "familiar", "romance"],
+    "mal_id": "67789",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49017_400.webp"
   },
   {
     "name": "Chiyo Sakura",
     "anime": "Monthly Girls' Nozaki-kun",
     "traits": ["cheerful", "artistic", "determined"],
-    "keywords": ["manga", "romance", "comedy"]
+    "keywords": ["manga", "romance", "comedy"],
+    "mal_id": "67790",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49018_400.webp"
   },
   {
     "name": "Umetarou Nozaki",
     "anime": "Monthly Girls' Nozaki-kun",
     "traits": ["oblivious", "hardworking", "observant"],
-    "keywords": ["manga", "romance", "comedy"]
+    "keywords": ["manga", "romance", "comedy"],
+    "mal_id": "67791",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49019_400.webp"
   },
   {
     "name": "Sadako Kuronuma",
     "anime": "Kimi ni Todoke",
     "traits": ["misunderstood", "kind", "shy"],
-    "keywords": ["school", "friendship", "growth"]
+    "keywords": ["school", "friendship", "growth"],
+    "mal_id": "1855",
+    "image": "https://cdn.anisearch.com/images/character/cover/10/10004_400.webp"
   },
   {
     "name": "Kazehaya Shouta",
     "anime": "Kimi ni Todoke",
     "traits": ["popular", "kind", "supportive"],
-    "keywords": ["school", "friendship", "romance"]
+    "keywords": ["school", "friendship", "romance"],
+    "mal_id": "1854",
+    "image": "https://cdn.anisearch.com/images/character/cover/10/10005_400.webp"
   },
   {
     "name": "Suzume Yosano",
     "anime": "Suzume no Tojimari",
     "traits": ["determined", "brave", "caring"],
-    "keywords": ["supernatural", "journey", "romance"]
+    "keywords": ["supernatural", "journey", "romance"],
+    "mal_id": "136366",
+    "image": "https://cdn.anisearch.com/images/character/cover/82/82241_400.webp"
   },
   {
     "name": "Souta Munakata",
     "anime": "Suzume no Tojimari",
     "traits": ["mysterious", "protective", "dedicated"],
-    "keywords": ["supernatural", "journey", "duty"]
+    "keywords": ["supernatural", "journey", "duty"],
+    "mal_id": "136367",
+    "image": "https://cdn.anisearch.com/images/character/cover/82/82242_400.webp"
   },
   {
     "name": "Yuki Cross",
     "anime": "Vampire Knight",
     "traits": ["caring", "determined", "protective"],
-    "keywords": ["vampire", "guardian", "romance"]
+    "keywords": ["vampire", "guardian", "romance"],
+    "mal_id": "67792",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49020_400.webp"
   },
   {
     "name": "Kaname Kuran",
     "anime": "Vampire Knight",
     "traits": ["mysterious", "powerful", "protective"],
-    "keywords": ["vampire", "pureblood", "romance"]
+    "keywords": ["vampire", "pureblood", "romance"],
+    "mal_id": "67793",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49021_400.webp"
   },
   {
     "name": "Shirayuki",
     "anime": "Snow White with the Red Hair",
     "traits": ["independent", "skilled", "determined"],
-    "keywords": ["herbs", "romance", "adventure"]
+    "keywords": ["herbs", "romance", "adventure"],
+    "mal_id": "67794",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49022_400.webp"
   },
   {
     "name": "Zen Wistaria",
     "anime": "Snow White with the Red Hair",
     "traits": ["princely", "caring", "responsible"],
-    "keywords": ["prince", "romance", "duty"]
+    "keywords": ["prince", "romance", "duty"],
+    "mal_id": "67795",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49023_400.webp"
   },
   {
     "name": "Chizuru Hishiro",
     "anime": "ReLIFE",
     "traits": ["socially-awkward", "intelligent", "growing"],
-    "keywords": ["experiment", "romance", "growth"]
+    "keywords": ["experiment", "romance", "growth"],
+    "mal_id": "67796",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49024_400.webp"
   },
   {
     "name": "Arata Kaizaki",
     "anime": "ReLIFE",
     "traits": ["mature", "caring", "supportive"],
-    "keywords": ["experiment", "romance", "growth"]
+    "keywords": ["experiment", "romance", "growth"],
+    "mal_id": "67797",
+    "image": "https://cdn.anisearch.com/images/character/cover/49/49025_400.webp"
   }
 ]
